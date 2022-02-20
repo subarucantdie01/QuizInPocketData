@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -23,7 +23,7 @@
   },
   {
     "id": 1,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -45,7 +45,7 @@
   },
   {
     "id": 2,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -67,7 +67,7 @@
   },
   {
     "id": 3,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -89,7 +89,7 @@
   },
   {
     "id": 4,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -111,7 +111,7 @@
   },
   {
     "id": 5,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -133,7 +133,7 @@
   },
   {
     "id": 6,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -155,7 +155,7 @@
   },
   {
     "id": 7,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -177,7 +177,7 @@
   },
   {
     "id": 8,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
@@ -199,7 +199,7 @@
   },
   {
     "id": 9,
-    "questions": "Blabla?",
+    "question": "Blabla?",
     "answers": {
       "A": {
         "answer_quote": "Blabla",
